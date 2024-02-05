@@ -49,7 +49,7 @@ I am currently coordinator of the organization *Elas@computação* and monitor t
 
 
 
-**Languages and Tools:**
+## **Languages and Tools:**
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
