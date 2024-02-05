@@ -87,6 +87,6 @@ A pesar de encontrarme en una etapa formativa, mi enfoque en el desarrollo tecno
   </a> &nbsp;&nbsp;
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://www.vectorlogo.zone/logos/brave/brave-ar21.svg" width="10%" />
+    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" width="10%" />
   </a> &nbsp;&nbsp;
 <p> 
