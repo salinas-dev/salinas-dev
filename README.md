@@ -2,8 +2,9 @@
 ### Python Dev | Data Scientist |  DevOps
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nora-teresa-salinas-rivera-b460672a4/)
-[<img src="https://img.shields.io&style=social" height="22" title="Follow me" />](https://github.com/salinas-dev/) 
+[<img src="https://img.shields.io/github/followers/salinas-dev?style=social" height="22" title="Follow me on GitHub" />](https://github.com/salinas-dev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/salinas.dev/)
+[<img src="https://img.shields.io/badge/Facebook-Profile-blue?style=social&logo=facebook" height="22" title="Connect with me on Facebook" />](https://www.facebook.com/TuUsuarioDeFacebook/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
 
 
