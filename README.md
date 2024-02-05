@@ -31,7 +31,7 @@ A pesar de encontrarme en una etapa formativa, mi enfoque en el desarrollo tecno
 
 - 📫 Cómo contactarme:
 
-<a><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> Discord: salinas.dev </a>
+<a height="20" ><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> Discord: salinas.dev </a>
 
 
 
