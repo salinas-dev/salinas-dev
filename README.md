@@ -71,7 +71,7 @@ A pesar de encontrarme en una etapa formativa, mi enfoque en el desarrollo tecno
 
 <p align="center">
   <a href="norasalinas013@gmail.com" >
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Outlook.svg" />
+    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/nora-teresa-salinas-rivera-b460672a4/" target="_blank">
