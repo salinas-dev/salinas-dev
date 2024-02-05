@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nora-teresa-salinas-rivera-b460672a4/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/salinas.dev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](norasalinas013@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-c14438?style=flat&logo=Microsoft-Outlook&logoColor=white)](norasalinas_20@outlook.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-white?style=flat&logo=Microsoft-Outlook&logoColor=black)](mailto:tu-dirección-de-correo@outlook.com)
 [<img src="https://img.shields.io/github/followers/salinas-dev?style=social" height="22" title="Follow me on GitHub" />](https://github.com/salinas-dev/)
 
 
