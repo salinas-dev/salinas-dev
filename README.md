@@ -1,26 +1,5 @@
-## Hi there, 👋  I'm Zahid aka Uannabi
-### Python Dev | Data Scientist |  DevOps 
-
-<!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-I want to make difference and willing to work hard for skillful career rather than regular career that I can be satisfied for. I want to work hard, be responsible and improve my profession and skills with a reputed organization in an ethical way in order to accept challenges & I’ve completed my graduation from CSE year of 2016.
-<br>
-<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
-
-- 🔭 I’m currently working on ad [ada-asia](https://ada-asia.com/) as Data Insights
-- 🌱 I’m currently learning Deep learning
-- 👯 I’m looking to collaborate on PySpark
-- 🤔 I’m looking for help with Data Engineering stuff
-- 💬 Ask me about Python
-- 📫 How to reach me: [zahid_sc@hotmail.fr](zahid_sc@hotmail.fr)
-
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Facebook"/>](https://www.facebook.com/zahid.uan/)
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/linkedin-ar21.svg" height="50em" align="center" alt="Follow Uannabi on LinkedIn"/>](https://www.linkedin.com/in/animus/) 
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Stackoverflow"/>](https://stackoverflow.com/users/7875250/zahid-uan-nabi)
-[<img src="https://github.com/uannabi/-/blob/master/resource/social/twitter-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Twitter"/>](https://twitter.com/uan_nabi)
-
-
-## Hello World!
+## Hello World!, 👋  I'm Nora Salinas
+### Python Dev | Data Scientist |  DevOps
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
 [<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
