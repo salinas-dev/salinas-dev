@@ -24,10 +24,10 @@ A pesar de encontrarme en una etapa formativa, mi enfoque en el desarrollo tecno
 <code><img height="20" src="https://www.vectorlogo.zone/logos/bash/bash-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8235
-0fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8235
-0fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+
 - 💬 Pregúntame acerca de programación en general, siempre estoy <br> disponible para ayudar y aprender juntos.
 
 - 📫 Cómo contactarme:
