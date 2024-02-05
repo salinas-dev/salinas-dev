@@ -19,10 +19,7 @@ A pesar de encontrarme en una etapa formativa, mi enfoque en el desarrollo tecno
 
 
 
-- 🌱 Actualmente estoy aprendiendo <code><img height="20" src="https://raw.githubusercontent.com/github/explore/8
-0688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e
-82350fe8e3517d3494d/topics/react/react.png"></code>
+- 🌱 Actualmente estoy aprendiendo 
 <code><img height="20" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/bash/bash-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
