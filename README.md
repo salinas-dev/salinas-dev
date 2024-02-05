@@ -18,7 +18,8 @@ A pesar de encontrarme en una etapa formativa, mi enfoque en el desarrollo tecno
 
 
 
-- 🌱 Actualmente estoy aprendiendo 
+- 🌱 Actualmente estoy aprendiendo
+<br> 
 <code><img height="20" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
 <code><img height="20" src="https://i.ibb.co/PD28y3q/icons8-intento-48.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
