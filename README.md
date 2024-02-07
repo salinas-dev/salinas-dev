@@ -18,8 +18,7 @@ Despite being in a formative stage, my focus on technological development reflec
 
 
 
-- 🌱 I am currently learning<br>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
+- 🌱 I am currently learning<code><img height="20" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
 <code><img height="20" src="https://i.ibb.co/PD28y3q/icons8-intento-48.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
