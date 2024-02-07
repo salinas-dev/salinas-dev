@@ -66,6 +66,19 @@ Despite being in a formative stage, my focus on technological development reflec
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/"></code>
   <br />
 </p>
 
