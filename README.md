@@ -1,5 +1,5 @@
 ## 👋 I'm Nora Salinas
-### Python Dev | Data Scientist | DevOps
+### Dev | Scripts Shell | Frontend | DevOps | Mobile
 
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/salinas.dev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/salinas.dev/)
