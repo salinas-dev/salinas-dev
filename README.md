@@ -1,4 +1,4 @@
-## Hello World!, 👋 I'm Nora Salinas
+## 👋 I'm Nora Salinas
 ### Python Dev | Data Scientist | DevOps
 
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/salinas.dev/)
