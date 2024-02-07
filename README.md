@@ -26,7 +26,7 @@ Despite being in a formative stage, my focus on technological development reflec
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-- 💬 Ask me about programming in general, <br<> I'm always available to help and learn together.
+- 💬 Ask me about programming in general, <br> I'm always available to help and learn together.
 
 - 📫 How to contact me:
 
