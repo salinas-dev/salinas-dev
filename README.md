@@ -1,10 +1,19 @@
 ## Hey👋, I'm Nora Salinas
 ### Dev | Scripts Shell | Frontend | DevOps | Mobile | Web | Linux(Ubuntu)
 
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/salinas.dev/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/salinas.dev/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nora-teresa-salinas-rivera-b460672a4/)
-[![Outlook](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](norasalinas_20@outlook.com)
+<p align="center">  
+  <a href="https://www.linkedin.com/in/nora-teresa-salinas-rivera-b460672a4/" target="_blank">
+    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/salinas.dev/" target="_blank">
+      <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/salinas.dev/" target="_blank">
+    <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
 [<img src="https://img.shields.io/github/followers/salinas-dev?style=social" height="22" title="Follow me on GitHub" />](https://github.com/salinas-dev/)
 
 
@@ -27,7 +36,6 @@ Despite being in a formative stage, my focus on technological development reflec
 
 - 💬 Ask me about programming in general, <br> I'm always available to help and learn together.
 
-- 📫 How to contact me:
 
  - <a height="20" ><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> Discord: salinas.dev </a>
 
@@ -77,21 +85,3 @@ Despite being in a formative stage, my focus on technological development reflec
   <br />
 </p>
 
-
-<p align="center">  
-  <a href="https://www.linkedin.com/in/nora-teresa-salinas-rivera-b460672a4/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.facebook.com/salinas.dev/" target="_blank">
-      <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/salinas.dev/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" width="10%" />
-  </a> &nbsp;&nbsp;
-<p> 
