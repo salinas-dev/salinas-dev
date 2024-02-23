@@ -1,19 +1,6 @@
 ## Hey👋, I'm Nora Salinas
 ### Dev | Scripts Shell | Frontend | DevOps | Mobile | Web | Linux(Ubuntu)
 
-<p align="center">  
-  <a href="https://www.linkedin.com/in/nora-teresa-salinas-rivera-b460672a4/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.facebook.com/salinas.dev/" target="_blank">
-      <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/salinas.dev/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  
 [<img src="https://img.shields.io/github/followers/salinas-dev?style=social" height="22" title="Follow me on GitHub" />](https://github.com/salinas-dev/)
 
 
