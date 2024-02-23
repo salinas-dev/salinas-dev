@@ -14,31 +14,6 @@ I'm deeply engaged in my academic pursuits, focusing on frontend development, sh
 In addition to my academic endeavors, I actively seek opportunities to broaden my knowledge in these domains, aspiring to make significant contributions to the tech industry.
 
 My passion for technological advancement is evident despite being in a formative stage, reflecting my commitment and enthusiasm to contribute meaningfully to the computing world.
-Experience:
-AI Visual Impairment Control and Care System:
-
-Responsible for designing mobile screens using Kotlin on Android.
-Project documentation creation.
-DevOps Machine Learning:
-
-Designing and creating APIs with Python, incorporating machine learning algorithms for route optimization.
-CRUD Mobile Project:
-
-Development using Jetpack Compose.
-Firebase database utilization.
-SQLServer Database System:
-
-Creation of a restaurant's sales and purchasing system.
-Utilization of C# and SQLServer.
-Skills:
-Proficient in programming languages: Python, Java, C#, Kotlin, PHP, JavaScript.
-Database management with MySQL, SQLite, and SQLServer.
-Proficient in Shell/Bash scripting on Linux.
-Basic knowledge of Cloud Computing services.
-About Me:
-I am a creative developer with a focus on mobile design. Proficient in Linux commands, I spend my free time creating content. Eager to expand my knowledge in AI and emerging technologies, I am in a constant state of learning.
-
-MY ENGLISH LEVEL IS B1.
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
