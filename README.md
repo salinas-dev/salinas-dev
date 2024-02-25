@@ -9,11 +9,14 @@
 
 
 My name is Nora Salinas, I am 22 years old and I am a student at the Tecnológico de Estudios Superiores de Jilotepec.
-I'm deeply engaged in my academic pursuits, focusing on frontend development, shell system administration, mobile development, and networking. While I consider myself a novice in Python and Java, my dedication to learning Python is unwavering.
+I am deeply committed to my academic studies, focusing on frontend development activities, shell systems administration, mobile development and Machine Learning. While I consider myself a Python newbie, my dedication to learning Python is unwavering.
 
-In addition to my academic endeavors, I actively seek opportunities to broaden my knowledge in these domains, aspiring to make significant contributions to the tech industry.
+My English is not very good, but I learn very quickly, I am very active and responsible with my activities and attitudes.
 
-My passion for technological advancement is evident despite being in a formative stage, reflecting my commitment and enthusiasm to contribute meaningfully to the computing world.
+In addition to my academic endeavors, I actively seek opportunities to expand my knowledge in these domains, aspiring to make significant contributions to the technology industry.
+
+
+My passion for technological advancement is evident despite being in a formative stage, which reflects my commitment and enthusiasm to contribute significantly to the world of computing.
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
