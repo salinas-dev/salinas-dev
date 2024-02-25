@@ -1,5 +1,5 @@
 ## Hey👋, I'm Nora Salinas
-### Dev | Scripts Shell | Frontend | DevOps | Mobile | Web | Linux(Ubuntu)
+### Dev | Scripts Shell | Frontend | DevOps | Mobile | Web | Linux
 
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/salinas.dev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/salinas.dev/)
@@ -25,6 +25,7 @@ My passion for technological advancement is evident despite being in a formative
 - 🌱 I am currently learning </n><code><img height="20" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
 <code><img height="20" src="https://i.ibb.co/PD28y3q/icons8-intento-48.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
