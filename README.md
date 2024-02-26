@@ -27,9 +27,8 @@ My passion for technological advancement is evident despite being in a formative
 <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 - 💬 Ask me about programming in general, <br> I'm always available to help and learn together.
 
