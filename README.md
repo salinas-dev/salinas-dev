@@ -41,10 +41,10 @@ My passion for technological advancement is evident despite being in a formative
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
@@ -53,10 +53,7 @@ My passion for technological advancement is evident despite being in a formative
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
@@ -74,9 +71,8 @@ My passion for technological advancement is evident despite being in a formative
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <br />
   <br />
 </p>
 
