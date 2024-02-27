@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hey👋, I'm Nora Salinas</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br>
+
 ### Dev | Scripts Shell | Frontend | DevOps | Mobile | Web | Linux
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/salinas.dev/)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/salinas.dev/)
