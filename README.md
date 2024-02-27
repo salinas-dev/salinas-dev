@@ -2,7 +2,8 @@
 
 <img src="https://i.ibb.co/RBLyj8J/Captura-de-pantalla-2024-02-26-194454.png">
 
-### Dev | Scripts Shell | Frontend | DevOps | Mobile | Web | Linux
+<h6 align="center">Dev | Scripts Shell | Frontend | DevOps | Mobile | Web | Linux </h6>
+
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/salinas.dev/)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/salinas.dev/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nora-teresa-salinas-rivera-b460672a4/)
