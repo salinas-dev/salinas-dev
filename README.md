@@ -4,12 +4,15 @@
 
 <h6 align="center">Dev | Scripts Shell | Frontend | DevOps | Mobile | Web | Linux </h6>
 
+<div align="center">
+ 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/salinas.dev/)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/salinas.dev/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nora-teresa-salinas-rivera-b460672a4/)
 [![Outlook](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](norasalinas_20@outlook.com)
 [<img src="https://img.shields.io/github/followers/salinas-dev?style=social" height="22" title="Follow me on GitHub" />](https://github.com/salinas-dev/)
 
+</div>
 
 My name is Nora Salinas, I am 22 years old and I am a student at the Tecnológico de Estudios Superiores de Jilotepec.
 I am deeply committed to my academic studies, focusing on frontend development activities, shell systems administration, mobile development and Machine Learning. While I consider myself a Python newbie, my dedication to learning Python is unwavering.
