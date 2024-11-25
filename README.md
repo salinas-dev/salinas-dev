@@ -13,15 +13,26 @@
 
 </div>
 
-My name is Nora Salinas, I am 23 years old and I am a student at the Tecnológico de Estudios Superiores de Jilotepec.
-I am deeply committed to my academic studies, focusing on frontend development activities, shell systems administration, mobile development and Machine Learning. While I consider myself a Python newbie, my dedication to learning Python is unwavering.
+Hello, my name is Nora Salinas, I am 23 years old and I am a student at the Instituto Superior de Estudios Superiores de Jilotepec. I am committed to continuous learning and focused on the following areas of technological development:
 
-My English is not very good, but I learn very quickly, I am very active and responsible with my activities and attitudes.
+Areas of Interest and Knowledge:
+Frontend Development: Creation of interactive and attractive interfaces.
+Shell Systems Administration: Management and automation of processes in Unix/Linux-based systems.
+Mobile Development: Using technologies such as:
+Java and Kotlin for native application development on Android.
+Flutter and Dart for multiplatform applications.
+Databases and Backend: Application integration with Firebase for storage, authentication, and real-time services.
+Software Architecture: Application of the MVC model to structure projects in an efficient and scalable way.
+Machine Learning: Initial exploration of machine learning techniques.
+Python: Although I am a beginner, my dedication to mastering this language is firm and constant.
+Personal Skills:
+Fast Learning: My ability to acquire new knowledge allows me to easily adapt to new environments and tools.
+Responsibility and Proactivity: In every task and project I undertake, I demonstrate commitment and a positive attitude.
+Communication in English: Although I am not an expert, I am constantly improving and I am not afraid to face challenges in this language.
+Aspirations:
+I am looking for growth opportunities in the technology industry, where I can apply and expand my current knowledge. My passion for technological advancement and my focus on mobile development and artificial intelligence reflect my enthusiasm for contributing to the world of computing.
 
-In addition to my academic endeavors, I actively seek opportunities to expand my knowledge in these domains, aspiring to make significant contributions to the technology industry.
-
-
-My passion for technological advancement is evident despite being in a formative stage, which reflects my commitment and enthusiasm to contribute significantly to the world of computing.
+I am in a formative stage, but I am convinced that my commitment and enthusiasm will lead me to achieve significant contributions in this field. 🚀
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
