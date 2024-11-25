@@ -13,7 +13,7 @@
 
 </div>
 
-My name is Nora Salinas, I am 22 years old and I am a student at the Tecnológico de Estudios Superiores de Jilotepec.
+My name is Nora Salinas, I am 23 years old and I am a student at the Tecnológico de Estudios Superiores de Jilotepec.
 I am deeply committed to my academic studies, focusing on frontend development activities, shell systems administration, mobile development and Machine Learning. While I consider myself a Python newbie, my dedication to learning Python is unwavering.
 
 My English is not very good, but I learn very quickly, I am very active and responsible with my activities and attitudes.
