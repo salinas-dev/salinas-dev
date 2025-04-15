@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/RBLyj8J/Captura-de-pantalla-2024-02-26-194454.png">
 
 <h6 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; color: #555; letter-spacing: 1px;">
-  <i>Dev | Scripts Shell | Frontend | DevOps | Mobile | Web | Linux</i>
+  <i>Dev | Scripts Shell | Frontend | DevOps | Mobile | Web | Linux | Data Analytics</i>
 </h6>
 
 
