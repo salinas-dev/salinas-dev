@@ -11,13 +11,19 @@
 
 <div align="center">
  
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/salinas.dev/)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/salinas.dev/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nora-teresa-salinas-rivera-b460672a4/)
-[<img src="https://img.shields.io/github/followers/salinas-dev?style=social" height="22" title="Follow me on GitHub" />](https://github.com/salinas-dev/)
+<p align="left center">
+<a href="https://twitter.com/https://x.com/salinasdev17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/salinasdev17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nora-teresa-salinas-rivera-b460672a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nora-teresa-salinas-rivera-b460672a4/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/30281852/nora-salinas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/30281852/nora-salinas" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/salinasdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/salinasdev" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/salinas.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/salinas.dev" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/salinas.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/salinas.dev/" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@norasalinas_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@norasalinas_20" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@salinas-dev." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@salinas-dev." height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/channels/@salinas.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@salinas.dev" height="30" width="40" /></a>
+</p>
 
 </div>
----
 
 <p align="justify" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <strong>Hello! I'm Nora Teresa Salinas Rivera</strong>, a 23-year-old Computer Systems Engineering student at the Tecnológico de Estudios Superiores de Jilotepec, and a passionate software developer with solid experience in backend, frontend, mobile, and DevOps technologies.
