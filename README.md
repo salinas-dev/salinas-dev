@@ -2,7 +2,7 @@
   <b>Hey 👋, I'm Nora Salinas</b>
 </h1>
 
-<img src="https://ibb.co/Y4bpn4jk">
+<img src="[https://ibb.co/Y4bpn4jk](https://es.imgbb.com/)">
 
 <h6 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; color: #555; letter-spacing: 1px;">
   <i>Dev | Python | Shell | DevOps | Mobile | Web | Linux | Data Analytics</i>
