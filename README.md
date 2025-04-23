@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="[https://ibb.co/Y4bpn4jk](https://i.ibb.co/bj7zwjdB/portada-colibri.webp)" alt="Nora Salinas" style="max-width: 250px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+  <img src="https://i.ibb.co/bj7zwjdB/portada-colibri.webp" alt="Nora Salinas" style="max-width: 250px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 </div>
 
 <h6 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; color: #555; letter-spacing: 1px; margin-top: 10px;">
